@@ -1,0 +1,542 @@
+league,league_name,country,tier,calendar,season,season_rel,period,matches_total,matches_excluded,matches,goals,normal_time_goals,stoppage_goals_1h,stoppage_goals_2h,late_equaliser_draws
+algir1,Ligue 1,Algeria,1,winter,2020-2021,-3,pre,380,42,338,892,838,17,37,5
+algir1,Ligue 1,Algeria,1,winter,2021-2022,-2,pre,306,43,263,693,637,18,38,8
+algir1,Ligue 1,Algeria,1,winter,2022-2023,-1,pre,240,33,207,511,474,8,29,6
+algir1,Ligue 1,Algeria,1,winter,2023-2024,0,post,240,29,211,553,491,24,38,9
+algir1,Ligue 1,Algeria,1,winter,2024-2025,1,post,240,42,198,467,395,21,51,10
+algir1,Ligue 1,Algeria,1,winter,2025-2026,2,post,240,20,220,544,486,19,39,8
+australia,A-League,Australia,1,winter,2020-2021,-3,pre,156,9,147,457,426,14,17,3
+australia,A-League,Australia,1,winter,2021-2022,-2,pre,156,8,148,451,407,12,32,6
+australia,A-League,Australia,1,winter,2022-2023,-1,pre,156,4,152,477,430,11,36,11
+australia,A-League,Australia,1,winter,2023-2024,0,post,162,7,155,540,471,20,49,13
+australia,A-League,Australia,1,winter,2024-2025,1,post,169,8,161,556,503,15,38,8
+australia,A-League,Australia,1,winter,2025-2026,2,post,163,11,152,456,406,16,34,4
+austria1,Bundesliga,Austria,1,winter,2020-2021,-3,pre,132,8,124,415,385,2,28,3
+austria1,Bundesliga,Austria,1,winter,2021-2022,-2,pre,132,5,127,380,341,12,27,6
+austria1,Bundesliga,Austria,1,winter,2022-2023,-1,pre,132,7,125,386,343,9,34,3
+austria1,Bundesliga,Austria,1,winter,2023-2024,0,post,132,12,120,334,301,7,26,6
+austria1,Bundesliga,Austria,1,winter,2024-2025,1,post,132,10,122,371,337,5,29,4
+austria1,Bundesliga,Austria,1,winter,2025-2026,2,post,195,12,183,527,468,16,43,8
+austria2,2. Liga,Austria,2,winter,2020-2021,-3,pre,240,14,226,736,686,7,43,8
+austria2,2. Liga,Austria,2,winter,2021-2022,-2,pre,240,14,226,732,686,10,36,6
+austria2,2. Liga,Austria,2,winter,2022-2023,-1,pre,240,15,225,689,624,15,50,8
+austria2,2. Liga,Austria,2,winter,2023-2024,0,post,240,12,228,716,659,13,44,7
+austria2,2. Liga,Austria,2,winter,2024-2025,1,post,240,18,222,704,650,12,42,5
+austria2,2. Liga,Austria,2,winter,2025-2026,2,post,237,33,204,596,553,12,31,6
+azer,Premier League,Azerbaijan,1,winter,2020-2021,-3,pre,112,14,98,266,237,7,22,6
+azer,Premier League,Azerbaijan,1,winter,2021-2022,-2,pre,112,8,104,291,257,8,26,3
+azer,Premier League,Azerbaijan,1,winter,2022-2023,-1,pre,180,15,165,475,437,11,27,2
+azer,Premier League,Azerbaijan,1,winter,2023-2024,0,post,180,11,169,471,425,11,35,6
+azer,Premier League,Azerbaijan,1,winter,2024-2025,1,post,180,15,165,432,389,11,32,5
+azer,Premier League,Azerbaijan,1,winter,2025-2026,2,post,200,19,181,512,458,17,37,9
+belgium1,Jupiler Pro League,Belgium,1,winter,2020-2021,-3,pre,306,14,292,914,847,12,55,16
+belgium1,Jupiler Pro League,Belgium,1,winter,2021-2022,-2,pre,306,15,291,887,830,15,42,11
+belgium1,Jupiler Pro League,Belgium,1,winter,2022-2023,-1,pre,306,18,288,914,838,24,52,9
+belgium1,Jupiler Pro League,Belgium,1,winter,2023-2024,0,post,240,12,228,672,589,24,59,15
+belgium1,Jupiler Pro League,Belgium,1,winter,2024-2025,1,post,240,23,217,640,563,22,55,11
+belgium1,Jupiler Pro League,Belgium,1,winter,2025-2026,2,post,321,27,294,856,759,30,67,13
+brazil1,Serie A Betano,Brazil,1,summer,2020,-3,pre,380,32,348,944,831,32,81,22
+brazil1,Serie A Betano,Brazil,1,summer,2021,-2,pre,380,44,336,842,735,37,70,15
+brazil1,Serie A Betano,Brazil,1,summer,2022,-1,pre,380,26,354,905,793,41,71,12
+brazil1,Serie A Betano,Brazil,1,summer,2023,0,post,375,30,345,930,800,49,81,13
+brazil1,Serie A Betano,Brazil,1,summer,2024,1,post,380,26,354,929,809,44,76,15
+brazil1,Serie A Betano,Brazil,1,summer,2025,2,post,380,27,353,959,846,41,72,16
+brazil2,Serie B Superbet,Brazil,2,summer,2020,-3,pre,380,43,337,824,746,24,54,13
+brazil2,Serie B Superbet,Brazil,2,summer,2021,-2,pre,380,47,333,826,746,28,52,12
+brazil2,Serie B Superbet,Brazil,2,summer,2022,-1,pre,380,49,331,766,680,30,56,18
+brazil2,Serie B Superbet,Brazil,2,summer,2023,0,post,380,44,336,796,659,46,91,23
+brazil2,Serie B Superbet,Brazil,2,summer,2024,1,post,373,37,336,815,712,35,68,10
+brazil2,Serie B Superbet,Brazil,2,summer,2025,2,post,380,33,347,843,730,39,74,18
+bulgaria1,Parva liga,Bulgaria,1,winter,2020-2021,-3,pre,182,22,160,439,404,12,23,8
+bulgaria1,Parva liga,Bulgaria,1,winter,2021-2022,-2,pre,182,19,163,445,405,11,29,4
+bulgaria1,Parva liga,Bulgaria,1,winter,2022-2023,-1,pre,240,26,214,554,497,24,33,5
+bulgaria1,Parva liga,Bulgaria,1,winter,2023-2024,0,post,240,22,218,582,527,16,39,7
+bulgaria1,Parva liga,Bulgaria,1,winter,2024-2025,1,post,240,17,223,584,525,23,36,9
+bulgaria1,Parva liga,Bulgaria,1,winter,2025-2026,2,post,294,38,256,672,596,25,51,8
+cha,Championship,England,2,winter,2020-2021,-3,pre,552,53,499,1274,1184,32,58,11
+cha,Championship,England,2,winter,2021-2022,-2,pre,552,45,507,1382,1257,34,91,27
+cha,Championship,England,2,winter,2022-2023,-1,pre,552,48,504,1342,1232,36,74,18
+cha,Championship,England,2,winter,2023-2024,0,post,552,35,517,1480,1312,53,115,19
+cha,Championship,England,2,winter,2024-2025,1,post,552,44,508,1353,1237,29,87,21
+cha,Championship,England,2,winter,2025-2026,2,post,559,39,520,1441,1316,40,85,24
+china,Super League,China,1,summer,2020,-3,pre,112,7,105,321,287,12,22,4
+china,Super League,China,1,summer,2021,-2,pre,112,13,99,301,269,12,20,2
+china,Super League,China,1,summer,2022,-1,pre,306,29,277,848,781,24,43,5
+china,Super League,China,1,summer,2023,0,post,240,14,226,666,599,26,41,10
+china,Super League,China,1,summer,2024,1,post,240,16,224,750,654,24,72,13
+china,Super League,China,1,summer,2025,2,post,240,9,231,771,662,36,73,19
+czech1,Chance Liga,Czech Republic,1,winter,2020-2021,-3,pre,306,27,279,822,763,18,41,6
+czech1,Chance Liga,Czech Republic,1,winter,2021-2022,-2,pre,240,14,226,670,627,10,33,6
+czech1,Chance Liga,Czech Republic,1,winter,2022-2023,-1,pre,240,10,230,720,662,22,36,8
+czech1,Chance Liga,Czech Republic,1,winter,2023-2024,0,post,240,17,223,678,618,24,36,6
+czech1,Chance Liga,Czech Republic,1,winter,2024-2025,1,post,240,22,218,627,568,21,38,7
+czech1,Chance Liga,Czech Republic,1,winter,2025-2026,2,post,280,26,254,730,674,21,35,5
+czech2,ChNL,Czech Republic,2,winter,2020-2021,-3,pre,182,12,170,473,457,2,14,2
+czech2,ChNL,Czech Republic,2,winter,2021-2022,-2,pre,240,20,220,646,603,12,31,4
+czech2,ChNL,Czech Republic,2,winter,2022-2023,-1,pre,240,13,227,666,623,12,31,6
+czech2,ChNL,Czech Republic,2,winter,2023-2024,0,post,240,17,223,687,633,14,40,3
+czech2,ChNL,Czech Republic,2,winter,2024-2025,1,post,240,23,217,605,565,9,31,7
+czech2,ChNL,Czech Republic,2,winter,2025-2026,2,post,240,14,226,643,591,17,35,8
+czech3a,3. CFL - Group A,Czech Republic,3,winter,2020-2021,-3,pre,59,5,54,197,194,0,3,0
+czech3a,3. CFL - Group A,Czech Republic,3,winter,2022-2023,-1,pre,240,18,222,728,692,11,25,4
+czech3a,3. CFL - Group A,Czech Republic,3,winter,2023-2024,0,post,240,13,227,782,740,14,28,3
+czech3a,3. CFL - Group A,Czech Republic,3,winter,2024-2025,1,post,256,27,229,750,705,17,28,3
+czech3a,3. CFL - Group A,Czech Republic,3,winter,2025-2026,2,post,272,17,255,869,818,13,38,3
+czech3b,3. CFL - Group B,Czech Republic,3,winter,2020-2021,-3,pre,63,8,55,179,172,1,6,0
+czech3b,3. CFL - Group B,Czech Republic,3,winter,2021-2022,-2,pre,240,12,228,732,699,6,27,6
+czech3b,3. CFL - Group B,Czech Republic,3,winter,2022-2023,-1,pre,240,15,225,713,680,10,23,1
+czech3b,3. CFL - Group B,Czech Republic,3,winter,2023-2024,0,post,240,14,226,720,686,7,27,4
+czech3b,3. CFL - Group B,Czech Republic,3,winter,2024-2025,1,post,272,21,251,789,742,17,30,6
+czech3b,3. CFL - Group B,Czech Republic,3,winter,2025-2026,2,post,272,7,265,912,857,14,41,7
+denmark1,Superliga,Denmark,1,winter,2020-2021,-3,pre,132,10,122,359,325,9,25,4
+denmark1,Superliga,Denmark,1,winter,2021-2022,-2,pre,132,8,124,354,328,6,20,7
+denmark1,Superliga,Denmark,1,winter,2022-2023,-1,pre,132,10,122,359,319,9,31,8
+denmark1,Superliga,Denmark,1,winter,2023-2024,0,post,132,8,124,356,318,15,23,7
+denmark1,Superliga,Denmark,1,winter,2024-2025,1,post,132,6,126,406,370,10,26,7
+denmark1,Superliga,Denmark,1,winter,2025-2026,2,post,193,12,181,595,538,14,43,8
+denmark2,1st Division,Denmark,2,winter,2020-2021,-3,pre,132,7,125,358,342,2,14,3
+denmark2,1st Division,Denmark,2,winter,2021-2022,-2,pre,132,5,127,395,364,6,25,1
+denmark2,1st Division,Denmark,2,winter,2022-2023,-1,pre,132,8,124,395,364,6,25,2
+denmark2,1st Division,Denmark,2,winter,2023-2024,0,post,132,8,124,399,356,9,34,5
+denmark2,1st Division,Denmark,2,winter,2024-2025,1,post,132,9,123,374,341,9,24,4
+denmark2,1st Division,Denmark,2,winter,2025-2026,2,post,192,12,180,538,500,8,30,6
+egypt,Premier League,Egypt,1,winter,2020-2021,-3,pre,306,33,273,760,674,22,64,18
+egypt,Premier League,Egypt,1,winter,2021-2022,-2,pre,306,42,264,673,604,22,47,12
+egypt,Premier League,Egypt,1,winter,2022-2023,-1,pre,306,52,254,657,569,26,62,14
+egypt,Premier League,Egypt,1,winter,2023-2024,0,post,306,34,272,728,620,41,67,16
+egypt,Premier League,Egypt,1,winter,2024-2025,1,post,153,25,128,312,267,16,29,6
+egypt,Premier League,Egypt,1,winter,2025-2026,2,post,322,51,271,651,558,30,63,21
+eng1,League One,England,3,winter,2020-2021,-3,pre,552,38,514,1447,1337,30,80,23
+eng1,League One,England,3,winter,2021-2022,-2,pre,552,37,515,1489,1364,37,88,25
+eng1,League One,England,3,winter,2022-2023,-1,pre,552,41,511,1414,1292,42,80,17
+eng1,League One,England,3,winter,2023-2024,0,post,552,39,513,1422,1259,50,113,27
+eng1,League One,England,3,winter,2024-2025,1,post,552,46,506,1427,1306,26,95,19
+eng1,League One,England,3,winter,2025-2026,2,post,557,33,524,1462,1323,33,106,28
+eng2,League Two,England,4-6,winter,2020-2021,-3,pre,552,57,495,1303,1194,34,75,20
+eng2,League Two,England,4-6,winter,2021-2022,-2,pre,552,51,501,1359,1233,36,90,20
+eng2,League Two,England,4-6,winter,2022-2023,-1,pre,552,54,498,1294,1183,28,83,24
+eng2,League Two,England,4-6,winter,2023-2024,0,post,552,27,525,1645,1471,56,118,24
+eng2,League Two,England,4-6,winter,2024-2025,1,post,552,48,504,1377,1244,39,94,29
+eng2,League Two,England,4-6,winter,2025-2026,2,post,557,38,519,1430,1255,57,118,23
+estonia,Meistriliiga,Estonia,1,summer,2020,-3,pre,147,10,137,442,416,6,20,3
+estonia,Meistriliiga,Estonia,1,summer,2021,-2,pre,135,6,129,455,429,7,19,3
+estonia,Meistriliiga,Estonia,1,summer,2022,-1,pre,180,6,174,549,511,11,27,2
+estonia,Meistriliiga,Estonia,1,summer,2023,0,post,180,17,163,458,416,8,34,10
+estonia,Meistriliiga,Estonia,1,summer,2024,1,post,180,10,170,539,499,10,30,8
+estonia,Meistriliiga,Estonia,1,summer,2025,2,post,180,27,153,496,460,12,24,3
+finland1,Veikkausliiga,Finland,1,summer,2020,-3,pre,132,10,122,372,344,9,19,3
+finland1,Veikkausliiga,Finland,1,summer,2021,-2,pre,132,9,123,310,285,6,19,1
+finland1,Veikkausliiga,Finland,1,summer,2022,-1,pre,132,8,124,376,351,6,19,6
+finland1,Veikkausliiga,Finland,1,summer,2023,0,post,132,11,121,329,305,8,16,4
+finland1,Veikkausliiga,Finland,1,summer,2024,1,post,132,7,125,395,366,5,24,4
+finland1,Veikkausliiga,Finland,1,summer,2025,2,post,132,8,124,433,395,9,29,6
+finland2,Ykkonen,Finland,2,summer,2020,-3,pre,132,7,125,439,411,6,22,7
+finland2,Ykkonen,Finland,2,summer,2021,-2,pre,132,10,122,355,329,7,19,4
+finland2,Ykkonen,Finland,2,summer,2022,-1,pre,132,5,127,395,366,7,22,6
+finland2,Ykkonen,Finland,2,summer,2023,0,post,132,11,121,368,337,10,21,4
+finland2,Ykkonen,Finland,2,summer,2024,1,post,135,10,125,420,382,8,30,8
+finland2,Ykkonen,Finland,2,summer,2025,2,post,135,5,130,443,414,3,26,5
+france1,Ligue 1,France,1,winter,2020-2021,-3,pre,380,26,354,1049,970,21,58,10
+france1,Ligue 1,France,1,winter,2021-2022,-2,pre,380,25,355,1062,974,28,60,13
+france1,Ligue 1,France,1,winter,2022-2023,-1,pre,380,26,354,1067,1004,19,44,9
+france1,Ligue 1,France,1,winter,2023-2024,0,post,306,27,279,826,745,26,55,14
+france1,Ligue 1,France,1,winter,2024-2025,1,post,306,14,292,911,812,26,73,9
+france1,Ligue 1,France,1,winter,2025-2026,2,post,310,26,284,873,762,36,75,12
+france2,Ligue 2,France,2,winter,2020-2021,-3,pre,380,38,342,907,848,12,47,8
+france2,Ligue 2,France,2,winter,2021-2022,-2,pre,380,39,341,865,808,18,39,9
+france2,Ligue 2,France,2,winter,2022-2023,-1,pre,380,37,343,915,857,17,41,8
+france2,Ligue 2,France,2,winter,2023-2024,0,post,380,47,333,928,819,37,72,13
+france2,Ligue 2,France,2,winter,2024-2025,1,post,340,53,287,789,715,21,53,11
+france2,Ligue 2,France,2,winter,2025-2026,2,post,310,34,276,783,706,15,62,13
+france3,National,France,3,winter,2020-2021,-3,pre,306,45,261,684,656,3,25,5
+france3,National,France,3,winter,2021-2022,-2,pre,306,30,276,760,712,11,37,8
+france3,National,France,3,winter,2022-2023,-1,pre,306,29,277,757,696,17,44,11
+france3,National,France,3,winter,2023-2024,0,post,306,22,284,779,688,28,63,15
+france3,National,France,3,winter,2024-2025,1,post,273,29,244,651,591,20,40,7
+france3,National,France,3,winter,2025-2026,2,post,303,33,270,735,677,15,43,10
+germany-north,Regionalliga North,Germany,4-6,winter,2020-2021,-3,pre,98,3,95,271,255,2,14,2
+germany-north,Regionalliga North,Germany,4-6,winter,2021-2022,-2,pre,200,13,187,605,567,8,30,7
+germany-north,Regionalliga North,Germany,4-6,winter,2022-2023,-1,pre,342,23,319,1094,1012,15,67,8
+germany-north,Regionalliga North,Germany,4-6,winter,2023-2024,0,post,306,20,286,1002,920,18,64,13
+germany-north,Regionalliga North,Germany,4-6,winter,2024-2025,1,post,306,13,293,984,905,25,54,8
+germany-north,Regionalliga North,Germany,4-6,winter,2025-2026,2,post,317,8,309,1152,1043,33,76,14
+germany1,Bundesliga,Germany,1,winter,2020-2021,-3,pre,306,19,287,921,861,18,42,6
+germany1,Bundesliga,Germany,1,winter,2021-2022,-2,pre,306,16,290,954,890,19,45,8
+germany1,Bundesliga,Germany,1,winter,2022-2023,-1,pre,306,16,290,966,880,22,64,13
+germany1,Bundesliga,Germany,1,winter,2023-2024,0,post,306,13,293,985,874,48,63,15
+germany1,Bundesliga,Germany,1,winter,2024-2025,1,post,306,23,283,957,875,27,55,10
+germany1,Bundesliga,Germany,1,winter,2025-2026,2,post,308,14,294,990,874,41,75,20
+germany2,2. Bundesliga,Germany,2,winter,2020-2021,-3,pre,306,19,287,908,850,13,45,10
+germany2,2. Bundesliga,Germany,2,winter,2021-2022,-2,pre,306,18,288,892,832,11,49,12
+germany2,2. Bundesliga,Germany,2,winter,2022-2023,-1,pre,306,15,291,901,828,16,57,13
+germany2,2. Bundesliga,Germany,2,winter,2023-2024,0,post,306,13,293,947,857,32,58,13
+germany2,2. Bundesliga,Germany,2,winter,2024-2025,1,post,306,22,284,925,829,37,59,9
+germany2,2. Bundesliga,Germany,2,winter,2025-2026,2,post,310,18,292,900,792,40,68,12
+germany3,3. Liga,Germany,3,winter,2020-2021,-3,pre,380,25,355,1015,956,16,43,9
+germany3,3. Liga,Germany,3,winter,2021-2022,-2,pre,380,36,344,1028,967,11,50,7
+germany3,3. Liga,Germany,3,winter,2022-2023,-1,pre,380,17,363,1106,1017,23,66,12
+germany3,3. Liga,Germany,3,winter,2023-2024,0,post,380,26,354,1066,972,30,64,16
+germany3,3. Liga,Germany,3,winter,2024-2025,1,post,380,20,360,1097,1013,22,62,14
+germany3,3. Liga,Germany,3,winter,2025-2026,2,post,380,23,357,1219,1107,30,82,14
+greece1,Super League,Greece,1,winter,2020-2021,-3,pre,182,17,165,411,372,11,28,7
+greece1,Super League,Greece,1,winter,2021-2022,-2,pre,182,21,161,439,405,8,26,4
+greece1,Super League,Greece,1,winter,2022-2023,-1,pre,182,22,160,414,373,11,30,7
+greece1,Super League,Greece,1,winter,2023-2024,0,post,182,10,172,539,472,23,44,13
+greece1,Super League,Greece,1,winter,2024-2025,1,post,182,14,168,436,394,9,33,6
+greece1,Super League,Greece,1,winter,2025-2026,2,post,246,22,224,624,560,20,44,11
+greece2,Super League 2,Greece,2,winter,2020-2021,-3,pre,132,17,115,252,231,3,18,3
+greece2,Super League 2,Greece,2,winter,2021-2022,-2,pre,544,75,469,1210,1110,25,75,17
+greece2,Super League 2,Greece,2,winter,2022-2023,-1,pre,387,47,340,897,823,20,54,11
+greece2,Super League 2,Greece,2,winter,2023-2024,0,post,288,51,237,579,537,12,30,5
+greece2,Super League 2,Greece,2,winter,2024-2025,1,post,180,20,160,412,376,10,26,8
+greece2,Super League 2,Greece,2,winter,2025-2026,2,post,265,21,244,607,560,12,35,4
+holland1,Eredivisie,Netherlands,1,winter,2020-2021,-3,pre,306,16,290,920,851,15,54,10
+holland1,Eredivisie,Netherlands,1,winter,2021-2022,-2,pre,306,15,291,875,799,24,52,13
+holland1,Eredivisie,Netherlands,1,winter,2022-2023,-1,pre,306,25,281,935,861,23,51,9
+holland1,Eredivisie,Netherlands,1,winter,2023-2024,0,post,306,16,290,990,898,28,64,14
+holland1,Eredivisie,Netherlands,1,winter,2024-2025,1,post,306,12,294,914,840,15,59,19
+holland1,Eredivisie,Netherlands,1,winter,2025-2026,2,post,321,13,308,1006,908,36,62,20
+holland2,Eerste Divisie,Netherlands,2,winter,2020-2021,-3,pre,380,19,361,1228,1134,23,71,9
+holland2,Eerste Divisie,Netherlands,2,winter,2021-2022,-2,pre,380,20,360,1160,1067,21,72,17
+holland2,Eerste Divisie,Netherlands,2,winter,2022-2023,-1,pre,380,13,367,1166,1076,22,68,11
+holland2,Eerste Divisie,Netherlands,2,winter,2023-2024,0,post,380,22,358,1159,1053,23,83,19
+holland2,Eerste Divisie,Netherlands,2,winter,2024-2025,1,post,380,23,357,1146,1053,20,73,13
+holland2,Eerste Divisie,Netherlands,2,winter,2025-2026,2,post,392,16,376,1241,1136,19,86,21
+holland3,Tweede Divisie,Netherlands,3,winter,2020-2021,-3,pre,47,2,45,143,134,1,8,1
+holland3,Tweede Divisie,Netherlands,3,winter,2021-2022,-2,pre,306,9,297,940,866,18,56,10
+holland3,Tweede Divisie,Netherlands,3,winter,2022-2023,-1,pre,306,14,292,978,910,18,50,10
+holland3,Tweede Divisie,Netherlands,3,winter,2023-2024,0,post,306,12,294,966,905,19,42,11
+holland3,Tweede Divisie,Netherlands,3,winter,2024-2025,1,post,306,10,296,1016,933,11,72,11
+holland3,Tweede Divisie,Netherlands,3,winter,2025-2026,2,post,322,12,310,1063,964,31,68,14
+hungary1,NB I.,Hungary,1,winter,2020-2021,-3,pre,198,16,182,590,550,7,33,5
+hungary1,NB I.,Hungary,1,winter,2021-2022,-2,pre,198,18,180,562,503,23,36,8
+hungary1,NB I.,Hungary,1,winter,2022-2023,-1,pre,198,16,182,530,489,14,27,7
+hungary1,NB I.,Hungary,1,winter,2023-2024,0,post,198,11,187,603,543,26,34,7
+hungary1,NB I.,Hungary,1,winter,2024-2025,1,post,198,20,178,553,501,13,39,7
+hungary1,NB I.,Hungary,1,winter,2025-2026,2,post,198,8,190,594,540,20,34,11
+hungary2,Merkantil Bank Liga,Hungary,2,winter,2020-2021,-3,pre,380,31,349,975,919,7,49,10
+hungary2,Merkantil Bank Liga,Hungary,2,winter,2021-2022,-2,pre,380,34,346,981,934,11,36,6
+hungary2,Merkantil Bank Liga,Hungary,2,winter,2022-2023,-1,pre,380,27,353,959,893,18,48,10
+hungary2,Merkantil Bank Liga,Hungary,2,winter,2023-2024,0,post,306,22,284,753,697,15,41,8
+hungary2,Merkantil Bank Liga,Hungary,2,winter,2024-2025,1,post,240,21,219,647,594,15,38,9
+hungary2,Merkantil Bank Liga,Hungary,2,winter,2025-2026,2,post,240,15,225,602,568,12,22,4
+india1,ISL,India,1,winter,2020-2021,-3,pre,110,14,96,281,253,5,23,9
+india1,ISL,India,1,winter,2021-2022,-2,pre,110,5,105,344,313,12,19,4
+india1,ISL,India,1,winter,2022-2023,-1,pre,110,3,107,334,303,7,24,0
+india1,ISL,India,1,winter,2023-2024,0,post,132,11,121,357,310,24,23,4
+india1,ISL,India,1,winter,2024-2025,1,post,156,11,145,448,396,15,37,7
+india1,ISL,India,1,winter,2025-2026,2,post,91,10,81,221,186,12,23,3
+ireland1,Premier Division,Ireland,1,summer,2020,-3,pre,90,10,80,198,184,3,11,2
+ireland1,Premier Division,Ireland,1,summer,2021,-2,pre,180,5,175,455,418,6,31,7
+ireland1,Premier Division,Ireland,1,summer,2022,-1,pre,179,13,166,448,409,13,26,5
+ireland1,Premier Division,Ireland,1,summer,2023,0,post,180,15,165,469,435,9,25,5
+ireland1,Premier Division,Ireland,1,summer,2024,1,post,180,22,158,408,377,7,24,7
+ireland1,Premier Division,Ireland,1,summer,2025,2,post,180,15,165,437,394,14,29,5
+ireland2,Division 1,Ireland,2,summer,2020,-3,pre,88,6,82,258,244,2,12,2
+ireland2,Division 1,Ireland,2,summer,2021,-2,pre,135,15,120,355,329,2,24,5
+ireland2,Division 1,Ireland,2,summer,2022,-1,pre,144,12,132,431,407,4,20,2
+ireland2,Division 1,Ireland,2,summer,2023,0,post,180,11,169,537,500,8,29,10
+ireland2,Division 1,Ireland,2,summer,2024,1,post,180,9,171,473,436,13,24,9
+ireland2,Division 1,Ireland,2,summer,2025,2,post,180,12,168,499,461,6,32,8
+italy1,Serie A,Italy,1,winter,2020-2021,-3,pre,380,20,360,1160,1082,17,61,20
+italy1,Serie A,Italy,1,winter,2021-2022,-2,pre,380,22,358,1089,997,19,73,17
+italy1,Serie A,Italy,1,winter,2022-2023,-1,pre,380,20,360,974,868,29,77,15
+italy1,Serie A,Italy,1,winter,2023-2024,0,post,380,31,349,987,889,24,74,15
+italy1,Serie A,Italy,1,winter,2024-2025,1,post,380,29,351,968,896,20,52,15
+italy1,Serie A,Italy,1,winter,2025-2026,2,post,380,36,344,922,824,28,70,17
+italy19,Primavera 1,Italy,youth,winter,2020-2021,-3,pre,240,12,228,739,680,10,49,9
+italy19,Primavera 1,Italy,youth,winter,2021-2022,-2,pre,306,11,295,911,853,14,44,11
+italy19,Primavera 1,Italy,youth,winter,2022-2023,-1,pre,306,16,290,901,830,11,60,11
+italy19,Primavera 1,Italy,youth,winter,2023-2024,0,post,306,15,291,952,874,22,56,15
+italy19,Primavera 1,Italy,youth,winter,2024-2025,1,post,380,16,364,1159,1071,24,64,10
+italy19,Primavera 1,Italy,youth,winter,2025-2026,2,post,382,81,301,825,796,7,22,11
+italy2,Serie B,Italy,2,winter,2020-2021,-3,pre,380,39,341,910,845,14,51,14
+italy2,Serie B,Italy,2,winter,2021-2022,-2,pre,380,27,353,942,871,20,51,17
+italy2,Serie B,Italy,2,winter,2022-2023,-1,pre,380,42,338,891,802,29,60,13
+italy2,Serie B,Italy,2,winter,2023-2024,0,post,380,37,343,958,862,19,77,18
+italy2,Serie B,Italy,2,winter,2024-2025,1,post,380,41,339,934,846,32,56,17
+italy2,Serie B,Italy,2,winter,2025-2026,2,post,390,30,360,993,897,29,67,19
+italy3a,Serie C - Group A,Italy,3,winter,2020-2021,-3,pre,380,44,336,860,785,13,62,10
+italy3a,Serie C - Group A,Italy,3,winter,2021-2022,-2,pre,380,38,342,833,759,16,58,15
+italy3a,Serie C - Group A,Italy,3,winter,2022-2023,-1,pre,380,34,346,884,810,17,57,9
+italy3a,Serie C - Group A,Italy,3,winter,2023-2024,0,post,380,43,337,842,778,7,57,9
+italy3a,Serie C - Group A,Italy,3,winter,2024-2025,1,post,380,32,348,873,800,11,62,15
+italy3a,Serie C - Group A,Italy,3,winter,2025-2026,2,post,380,37,343,889,779,34,76,21
+italy3b,Serie C - Group B,Italy,3,winter,2020-2021,-3,pre,380,43,337,912,840,14,58,12
+italy3b,Serie C - Group B,Italy,3,winter,2021-2022,-2,pre,380,49,331,925,847,18,60,13
+italy3b,Serie C - Group B,Italy,3,winter,2022-2023,-1,pre,380,43,337,859,788,10,61,15
+italy3b,Serie C - Group B,Italy,3,winter,2023-2024,0,post,380,38,342,908,843,18,47,13
+italy3b,Serie C - Group B,Italy,3,winter,2024-2025,1,post,380,42,338,897,823,22,52,8
+italy3b,Serie C - Group B,Italy,3,winter,2025-2026,2,post,357,35,322,802,698,24,80,16
+japan1,J1 League,Japan,1,summer,2020,-3,pre,306,20,286,866,791,19,56,7
+japan1,J1 League,Japan,1,summer,2021,-2,pre,380,35,345,917,846,22,49,12
+japan1,J1 League,Japan,1,summer,2022,-1,pre,306,36,270,771,699,14,58,15
+japan1,J1 League,Japan,1,summer,2023,0,post,306,24,282,777,684,22,71,12
+japan1,J1 League,Japan,1,summer,2024,1,post,380,32,348,1013,897,28,88,21
+japan1,J1 League,Japan,1,summer,2025,2,post,380,33,347,911,781,40,90,17
+japan2,J2 League,Japan,2,summer,2020,-3,pre,462,42,420,1119,1021,27,71,12
+japan2,J2 League,Japan,2,summer,2021,-2,pre,462,47,415,1102,1018,19,65,22
+japan2,J2 League,Japan,2,summer,2022,-1,pre,462,38,424,1136,1029,24,83,21
+japan2,J2 League,Japan,2,summer,2023,0,post,462,40,422,1179,1067,29,83,20
+japan2,J2 League,Japan,2,summer,2024,1,post,380,37,343,946,849,27,70,14
+japan2,J2 League,Japan,2,summer,2025,2,post,380,38,342,934,830,25,79,22
+korea1,K League 1,South Korea,1,summer,2020,-3,pre,132,12,120,338,302,11,25,5
+korea1,K League 1,South Korea,1,summer,2021,-2,pre,198,24,174,479,418,17,44,9
+korea1,K League 1,South Korea,1,summer,2022,-1,pre,198,13,185,508,447,13,48,11
+korea1,K League 1,South Korea,1,summer,2023,0,post,198,16,182,498,433,13,52,10
+korea1,K League 1,South Korea,1,summer,2024,1,post,198,12,186,533,436,26,71,11
+korea1,K League 1,South Korea,1,summer,2025,2,post,198,16,182,512,430,23,59,9
+korea2,K League 2,South Korea,2,summer,2020,-3,pre,135,11,124,326,288,7,31,7
+korea2,K League 2,South Korea,2,summer,2021,-2,pre,173,19,154,418,371,11,36,6
+korea2,K League 2,South Korea,2,summer,2022,-1,pre,220,20,200,556,496,13,47,15
+korea2,K League 2,South Korea,2,summer,2023,0,post,234,24,210,601,527,15,59,11
+korea2,K League 2,South Korea,2,summer,2024,1,post,234,19,215,616,511,34,71,12
+korea2,K League 2,South Korea,2,summer,2025,2,post,273,26,247,686,577,27,82,20
+kuwait,Premier League,Kuwait,1,winter,2020-2021,-3,pre,105,16,89,262,245,3,14,0
+kuwait,Premier League,Kuwait,1,winter,2021-2022,-2,pre,90,6,84,250,228,0,22,4
+kuwait,Premier League,Kuwait,1,winter,2022-2023,-1,pre,90,7,83,269,240,4,25,7
+kuwait,Premier League,Kuwait,1,winter,2023-2024,0,post,90,7,83,266,224,7,35,5
+kuwait,Premier League,Kuwait,1,winter,2024-2025,1,post,90,4,86,276,227,19,30,5
+kuwait,Premier League,Kuwait,1,winter,2025-2026,2,post,98,7,91,257,219,12,26,4
+latvia,Virsliga,Latvia,1,summer,2021,-2,pre,126,20,106,327,312,3,12,3
+latvia,Virsliga,Latvia,1,summer,2022,-1,pre,182,13,169,540,506,6,28,2
+latvia,Virsliga,Latvia,1,summer,2023,0,post,182,12,170,533,493,10,30,6
+latvia,Virsliga,Latvia,1,summer,2024,1,post,182,12,170,561,519,15,27,5
+latvia,Virsliga,Latvia,1,summer,2025,2,post,182,11,171,535,488,15,32,3
+lithuania,A Lyga,Lithuania,1,summer,2020,-3,pre,60,2,58,156,144,1,11,3
+lithuania,A Lyga,Lithuania,1,summer,2021,-2,pre,180,10,170,493,461,7,25,5
+lithuania,A Lyga,Lithuania,1,summer,2022,-1,pre,180,15,165,471,435,9,27,6
+lithuania,A Lyga,Lithuania,1,summer,2023,0,post,180,22,158,428,388,7,33,7
+lithuania,A Lyga,Lithuania,1,summer,2024,1,post,180,24,156,420,384,14,22,3
+lithuania,A Lyga,Lithuania,1,summer,2025,2,post,180,13,167,479,434,12,33,6
+morocco,Botola Pro,Morocco,1,winter,2020-2021,-3,pre,240,35,205,537,489,10,38,12
+morocco,Botola Pro,Morocco,1,winter,2021-2022,-2,pre,240,40,200,519,470,13,36,6
+morocco,Botola Pro,Morocco,1,winter,2022-2023,-1,pre,240,35,205,509,437,15,57,13
+morocco,Botola Pro,Morocco,1,winter,2023-2024,0,post,240,30,210,534,452,26,56,9
+morocco,Botola Pro,Morocco,1,winter,2024-2025,1,post,240,22,218,555,485,25,45,9
+morocco,Botola Pro,Morocco,1,winter,2025-2026,2,post,248,29,219,539,452,35,52,12
+national,National League,England,4-6,winter,2021-2022,-2,pre,506,36,470,1386,1304,20,62,12
+national,National League,England,4-6,winter,2022-2023,-1,pre,552,27,525,1540,1426,36,78,11
+national,National League,England,4-6,winter,2023-2024,0,post,552,33,519,1623,1454,51,118,29
+national,National League,England,4-6,winter,2024-2025,1,post,552,38,514,1484,1340,35,109,26
+national,National League,England,4-6,winter,2025-2026,2,post,558,33,525,1614,1439,42,133,22
+north,National League North,England,4-6,winter,2020-2021,-3,pre,165,8,157,458,436,6,16,9
+north,National League North,England,4-6,winter,2021-2022,-2,pre,462,40,422,1220,1148,18,54,16
+north,National League North,England,4-6,winter,2022-2023,-1,pre,552,52,500,1390,1296,31,63,24
+north,National League North,England,4-6,winter,2023-2024,0,post,552,40,512,1474,1344,36,94,15
+north,National League North,England,4-6,winter,2024-2025,1,post,552,42,510,1420,1300,39,81,17
+north,National League North,England,4-6,winter,2025-2026,2,post,560,26,534,1702,1534,40,128,31
+norway,Eliteserien,Norway,1,summer,2020,-3,pre,240,13,227,758,694,14,50,5
+norway,Eliteserien,Norway,1,summer,2021,-2,pre,240,14,226,732,682,13,37,7
+norway,Eliteserien,Norway,1,summer,2022,-1,pre,240,7,233,781,718,20,43,11
+norway,Eliteserien,Norway,1,summer,2023,0,post,240,13,227,748,672,14,62,7
+norway,Eliteserien,Norway,1,summer,2024,1,post,240,14,226,679,616,15,48,10
+norway,Eliteserien,Norway,1,summer,2025,2,post,240,12,228,759,670,32,57,11
+poland1,Ekstraklasa,Poland,1,winter,2020-2021,-3,pre,240,24,216,589,540,13,36,9
+poland1,Ekstraklasa,Poland,1,winter,2021-2022,-2,pre,306,19,287,818,734,27,57,16
+poland1,Ekstraklasa,Poland,1,winter,2022-2023,-1,pre,306,24,282,755,669,22,64,12
+poland1,Ekstraklasa,Poland,1,winter,2023-2024,0,post,306,25,281,823,730,28,65,16
+poland1,Ekstraklasa,Poland,1,winter,2024-2025,1,post,306,18,288,843,752,31,60,16
+poland1,Ekstraklasa,Poland,1,winter,2025-2026,2,post,315,23,292,866,781,24,61,14
+poland2,Division 1,Poland,2,winter,2020-2021,-3,pre,306,29,277,713,657,10,46,10
+poland2,Division 1,Poland,2,winter,2021-2022,-2,pre,306,30,276,760,691,23,46,13
+poland2,Division 1,Poland,2,winter,2022-2023,-1,pre,306,20,286,808,733,24,51,15
+poland2,Division 1,Poland,2,winter,2023-2024,0,post,306,23,283,814,720,29,65,6
+poland2,Division 1,Poland,2,winter,2024-2025,1,post,306,25,281,828,747,24,57,10
+poland2,Division 1,Poland,2,winter,2025-2026,2,post,328,17,311,985,893,33,59,19
+portugal1,Liga Portugal,Portugal,1,winter,2025-2026,2,post,308,21,287,823,736,24,63,20
+portugal2,Liga Portugal 2,Portugal,2,winter,2020-2021,-3,pre,306,29,277,741,669,22,50,17
+portugal2,Liga Portugal 2,Portugal,2,winter,2021-2022,-2,pre,306,26,280,760,694,13,53,12
+portugal2,Liga Portugal 2,Portugal,2,winter,2022-2023,-1,pre,306,22,284,807,722,19,66,15
+portugal2,Liga Portugal 2,Portugal,2,winter,2023-2024,0,post,306,24,282,749,668,23,58,12
+portugal2,Liga Portugal 2,Portugal,2,winter,2024-2025,1,post,306,25,281,769,688,23,58,8
+portugal2,Liga Portugal 2,Portugal,2,winter,2025-2026,2,post,310,33,277,751,654,29,68,8
+premier,Premier League,England,1,winter,2020-2021,-3,pre,380,31,349,1023,948,25,50,10
+premier,Premier League,England,1,winter,2021-2022,-2,pre,380,22,358,1071,977,22,72,11
+premier,Premier League,England,1,winter,2022-2023,-1,pre,380,23,357,1084,1001,34,49,7
+premier,Premier League,England,1,winter,2023-2024,0,post,380,11,369,1246,1098,45,103,18
+premier,Premier League,England,1,winter,2024-2025,1,post,380,16,364,1115,1002,33,80,18
+premier,Premier League,England,1,winter,2025-2026,2,post,380,27,353,1045,898,43,104,23
+primera1,Primera RFEF - Group 1,Spain,3,winter,2021-2022,-2,pre,380,47,333,875,821,8,46,5
+primera1,Primera RFEF - Group 1,Spain,3,winter,2022-2023,-1,pre,418,72,346,862,806,4,52,5
+primera1,Primera RFEF - Group 1,Spain,3,winter,2023-2024,0,post,380,52,328,806,742,12,52,10
+primera1,Primera RFEF - Group 1,Spain,3,winter,2024-2025,1,post,380,25,355,930,845,14,71,18
+primera1,Primera RFEF - Group 1,Spain,3,winter,2025-2026,2,post,398,39,359,974,852,39,83,16
+primera2,Primera RFEF - Group 2,Spain,3,winter,2021-2022,-2,pre,380,39,341,907,859,8,40,9
+primera2,Primera RFEF - Group 2,Spain,3,winter,2022-2023,-1,pre,380,53,327,809,753,11,45,10
+primera2,Primera RFEF - Group 2,Spain,3,winter,2023-2024,0,post,380,43,337,862,791,20,51,8
+primera2,Primera RFEF - Group 2,Spain,3,winter,2024-2025,1,post,380,43,337,903,828,19,56,16
+primera2,Primera RFEF - Group 2,Spain,3,winter,2025-2026,2,post,380,46,334,856,732,40,84,18
+romania1,Liga 1,Romania,1,winter,2020-2021,-3,pre,240,26,214,546,510,6,30,9
+romania1,Liga 1,Romania,1,winter,2021-2022,-2,pre,240,28,212,521,471,13,37,12
+romania1,Liga 1,Romania,1,winter,2022-2023,-1,pre,240,17,223,562,507,20,35,10
+romania1,Liga 1,Romania,1,winter,2023-2024,0,post,240,30,210,615,553,22,40,11
+romania1,Liga 1,Romania,1,winter,2024-2025,1,post,240,26,214,553,492,16,45,11
+romania1,Liga 1,Romania,1,winter,2025-2026,2,post,350,28,322,874,805,18,51,11
+russia,Premier League,Russia,1,winter,2020-2021,-3,pre,240,19,221,631,569,23,39,1
+russia,Premier League,Russia,1,winter,2021-2022,-2,pre,240,18,222,639,584,17,38,9
+russia,Premier League,Russia,1,winter,2022-2023,-1,pre,240,15,225,727,653,22,52,9
+russia,Premier League,Russia,1,winter,2023-2024,0,post,240,20,220,637,559,16,62,14
+russia,Premier League,Russia,1,winter,2024-2025,1,post,240,20,220,648,580,18,50,12
+russia,Premier League,Russia,1,winter,2025-2026,2,post,244,15,229,615,561,18,36,8
+saudi1,Saudi Professional League,Saudi Arabia,1,winter,2020-2021,-3,pre,240,10,230,741,651,20,70,12
+saudi1,Saudi Professional League,Saudi Arabia,1,winter,2021-2022,-2,pre,240,17,223,637,565,23,49,8
+saudi1,Saudi Professional League,Saudi Arabia,1,winter,2022-2023,-1,pre,240,12,228,648,546,31,71,10
+saudi1,Saudi Professional League,Saudi Arabia,1,winter,2023-2024,0,post,306,24,282,909,754,63,92,13
+saudi1,Saudi Professional League,Saudi Arabia,1,winter,2024-2025,1,post,306,13,293,899,726,65,108,17
+saudi1,Saudi Professional League,Saudi Arabia,1,winter,2025-2026,2,post,314,16,298,943,841,30,72,12
+saudi2,Division 1,Saudi Arabia,2,winter,2020-2021,-3,pre,380,44,336,884,798,13,73,13
+saudi2,Division 1,Saudi Arabia,2,winter,2021-2022,-2,pre,380,52,328,822,737,27,58,18
+saudi2,Division 1,Saudi Arabia,2,winter,2022-2023,-1,pre,306,27,279,706,615,22,69,13
+saudi2,Division 1,Saudi Arabia,2,winter,2023-2024,0,post,306,27,279,801,676,30,95,15
+saudi2,Division 1,Saudi Arabia,2,winter,2024-2025,1,post,306,23,283,794,649,50,95,13
+saudi2,Division 1,Saudi Arabia,2,winter,2025-2026,2,post,309,20,289,905,772,50,83,16
+scot-champ,Championship,Scotland,2,winter,2020-2021,-3,pre,135,13,122,380,364,4,12,1
+scot-champ,Championship,Scotland,2,winter,2021-2022,-2,pre,180,18,162,432,408,8,16,7
+scot-champ,Championship,Scotland,2,winter,2022-2023,-1,pre,180,14,166,504,480,8,16,4
+scot-champ,Championship,Scotland,2,winter,2023-2024,0,post,180,17,163,503,470,12,21,5
+scot-champ,Championship,Scotland,2,winter,2024-2025,1,post,180,15,165,452,424,4,24,6
+scot-champ,Championship,Scotland,2,winter,2025-2026,2,post,190,26,164,455,426,9,20,7
+scot-premier,Premiership,Scotland,1,winter,2020-2021,-3,pre,198,17,181,475,448,8,19,6
+scot-premier,Premiership,Scotland,1,winter,2021-2022,-2,pre,198,17,181,491,467,10,14,5
+scot-premier,Premiership,Scotland,1,winter,2022-2023,-1,pre,198,6,192,583,529,19,35,10
+scot-premier,Premiership,Scotland,1,winter,2023-2024,0,post,198,14,184,526,461,15,50,16
+scot-premier,Premiership,Scotland,1,winter,2024-2025,1,post,198,10,188,584,514,16,54,12
+scot-premier,Premiership,Scotland,1,winter,2025-2026,2,post,234,17,217,643,582,14,47,8
+scot1,League One,Scotland,3,winter,2020-2021,-3,pre,90,6,84,215,203,3,9,2
+scot1,League One,Scotland,3,winter,2021-2022,-2,pre,180,10,170,507,472,7,28,8
+scot1,League One,Scotland,3,winter,2022-2023,-1,pre,180,11,169,533,499,10,24,5
+scot1,League One,Scotland,3,winter,2023-2024,0,post,180,8,172,571,531,13,27,5
+scot1,League One,Scotland,3,winter,2024-2025,1,post,180,13,167,486,454,7,25,6
+scot1,League One,Scotland,3,winter,2025-2026,2,post,191,11,180,506,477,7,22,6
+scot2,League Two,Scotland,4-6,winter,2020-2021,-3,pre,90,6,84,245,232,3,10,1
+scot2,League Two,Scotland,4-6,winter,2021-2022,-2,pre,180,12,168,468,444,7,17,6
+scot2,League Two,Scotland,4-6,winter,2022-2023,-1,pre,180,8,172,489,450,10,29,7
+scot2,League Two,Scotland,4-6,winter,2023-2024,0,post,180,17,163,467,428,10,29,8
+scot2,League Two,Scotland,4-6,winter,2024-2025,1,post,180,13,167,469,432,9,28,3
+scot2,League Two,Scotland,4-6,winter,2025-2026,2,post,188,9,179,552,511,13,28,7
+segunda1,Segunda Division B - Group 1,Spain,4-6,winter,2020-2021,-3,pre,180,18,162,379,369,1,9,2
+segunda1,Segunda Division B - Group 1,Spain,4-6,winter,2021-2022,-2,pre,306,31,275,735,696,3,36,9
+segunda1,Segunda Division B - Group 1,Spain,4-6,winter,2022-2023,-1,pre,306,35,271,648,613,1,34,6
+segunda1,Segunda Division B - Group 1,Spain,4-6,winter,2023-2024,0,post,306,36,270,714,654,12,48,9
+segunda1,Segunda Division B - Group 1,Spain,4-6,winter,2024-2025,1,post,306,35,271,719,659,16,44,9
+segunda1,Segunda Division B - Group 1,Spain,4-6,winter,2025-2026,2,post,306,29,277,773,710,7,56,11
+segunda2,Segunda Division B - Group 2,Spain,4-6,winter,2020-2021,-3,pre,200,23,177,433,420,0,13,5
+segunda2,Segunda Division B - Group 2,Spain,4-6,winter,2021-2022,-2,pre,306,36,270,755,721,5,29,7
+segunda2,Segunda Division B - Group 2,Spain,4-6,winter,2022-2023,-1,pre,306,34,272,694,664,3,27,7
+segunda2,Segunda Division B - Group 2,Spain,4-6,winter,2023-2024,0,post,306,42,264,691,639,9,43,7
+segunda2,Segunda Division B - Group 2,Spain,4-6,winter,2024-2025,1,post,306,28,278,719,669,7,43,8
+segunda2,Segunda Division B - Group 2,Spain,4-6,winter,2025-2026,2,post,306,28,278,769,700,11,58,14
+segunda3,Segunda Division B - Group 3,Spain,4-6,winter,2020-2021,-3,pre,200,26,174,413,404,0,9,3
+segunda3,Segunda Division B - Group 3,Spain,4-6,winter,2021-2022,-2,pre,306,31,275,693,667,4,22,5
+segunda3,Segunda Division B - Group 3,Spain,4-6,winter,2022-2023,-1,pre,306,42,264,652,623,4,25,5
+segunda3,Segunda Division B - Group 3,Spain,4-6,winter,2023-2024,0,post,306,31,275,742,686,15,41,7
+segunda3,Segunda Division B - Group 3,Spain,4-6,winter,2024-2025,1,post,306,27,279,724,667,16,41,10
+segunda3,Segunda Division B - Group 3,Spain,4-6,winter,2025-2026,2,post,306,33,273,742,671,13,58,19
+segunda4,Segunda Division B - Group 4,Spain,4-6,winter,2020-2021,-3,pre,180,25,155,386,374,2,10,3
+segunda4,Segunda Division B - Group 4,Spain,4-6,winter,2021-2022,-2,pre,306,32,274,736,700,5,31,8
+segunda4,Segunda Division B - Group 4,Spain,4-6,winter,2022-2023,-1,pre,306,33,273,673,634,1,38,5
+segunda4,Segunda Division B - Group 4,Spain,4-6,winter,2023-2024,0,post,306,46,260,631,581,10,40,2
+segunda4,Segunda Division B - Group 4,Spain,4-6,winter,2024-2025,1,post,306,33,273,629,576,10,43,14
+segunda4,Segunda Division B - Group 4,Spain,4-6,winter,2025-2026,2,post,323,28,295,738,676,11,51,5
+segunda5,Segunda Division B - Group 5,Spain,4-6,winter,2020-2021,-3,pre,180,29,151,371,356,0,15,5
+segunda5,Segunda Division B - Group 5,Spain,4-6,winter,2021-2022,-2,pre,306,35,271,640,607,3,30,8
+segunda5,Segunda Division B - Group 5,Spain,4-6,winter,2022-2023,-1,pre,340,86,254,655,619,3,33,5
+segunda5,Segunda Division B - Group 5,Spain,4-6,winter,2023-2024,0,post,306,40,266,675,639,8,28,10
+segunda5,Segunda Division B - Group 5,Spain,4-6,winter,2024-2025,1,post,306,29,277,754,676,8,70,10
+segunda5,Segunda Division B - Group 5,Spain,4-6,winter,2025-2026,2,post,306,27,279,783,721,13,49,7
+serbia1,Serbia,Serbia,1,winter,2020-2021,-3,pre,380,26,354,1021,982,12,27,4
+serbia1,Serbia,Serbia,1,winter,2021-2022,-2,pre,240,21,219,618,582,8,28,7
+serbia1,Serbia,Serbia,1,winter,2022-2023,-1,pre,240,24,216,585,561,7,17,2
+serbia1,Serbia,Serbia,1,winter,2023-2024,0,post,240,12,228,647,588,14,45,9
+serbia1,Serbia,Serbia,1,winter,2024-2025,1,post,240,20,220,677,624,12,41,9
+serbia1,Serbia,Serbia,1,winter,2025-2026,2,post,297,37,260,788,714,26,48,10
+slovenia1,Prva liga,Slovenia,1,winter,2020-2021,-3,pre,180,25,155,419,398,7,14,1
+slovenia1,Prva liga,Slovenia,1,winter,2021-2022,-2,pre,180,15,165,457,425,6,26,6
+slovenia1,Prva liga,Slovenia,1,winter,2022-2023,-1,pre,180,16,164,457,415,11,31,8
+slovenia1,Prva liga,Slovenia,1,winter,2023-2024,0,post,180,12,168,499,463,11,25,4
+slovenia1,Prva liga,Slovenia,1,winter,2024-2025,1,post,180,13,167,498,460,7,31,7
+slovenia1,Prva liga,Slovenia,1,winter,2025-2026,2,post,164,9,155,498,455,9,34,9
+south,National League South,England,4-6,winter,2020-2021,-3,pre,165,9,156,489,458,11,20,3
+south,National League South,England,4-6,winter,2021-2022,-2,pre,420,24,396,1242,1175,20,47,10
+south,National League South,England,4-6,winter,2022-2023,-1,pre,552,36,516,1550,1462,27,61,17
+south,National League South,England,4-6,winter,2023-2024,0,post,550,33,517,1561,1437,31,93,21
+south,National League South,England,4-6,winter,2024-2025,1,post,549,36,513,1491,1350,39,102,25
+south,National League South,England,4-6,winter,2025-2026,2,post,605,42,563,1698,1512,44,142,30
+spain1,La Liga,Spain,1,winter,2020-2021,-3,pre,380,30,350,953,892,22,39,7
+spain1,La Liga,Spain,1,winter,2021-2022,-2,pre,380,44,336,946,844,22,80,20
+spain1,La Liga,Spain,1,winter,2022-2023,-1,pre,380,26,354,955,868,26,61,14
+spain1,La Liga,Spain,1,winter,2023-2024,0,post,380,31,349,1005,882,39,84,16
+spain1,La Liga,Spain,1,winter,2024-2025,1,post,380,21,359,995,885,31,79,14
+spain1,La Liga,Spain,1,winter,2025-2026,2,post,380,15,365,1024,896,39,89,23
+spain2,La Liga2,Spain,2,winter,2020-2021,-3,pre,462,51,411,946,877,14,55,16
+spain2,La Liga2,Spain,2,winter,2021-2022,-2,pre,462,43,419,1122,1043,18,61,11
+spain2,La Liga2,Spain,2,winter,2022-2023,-1,pre,462,68,394,932,821,34,77,14
+spain2,La Liga2,Spain,2,winter,2023-2024,0,post,462,50,412,1039,917,35,87,24
+spain2,La Liga2,Spain,2,winter,2024-2025,1,post,462,45,417,1165,1028,37,100,19
+spain2,La Liga2,Spain,2,winter,2025-2026,2,post,509,40,469,1335,1199,34,102,17
+sweden1,Allsvenskan,Sweden,1,summer,2020,-3,pre,240,17,223,674,620,16,38,18
+sweden1,Allsvenskan,Sweden,1,summer,2021,-2,pre,240,19,221,638,583,18,37,8
+sweden1,Allsvenskan,Sweden,1,summer,2022,-1,pre,240,15,225,662,598,15,49,10
+sweden1,Allsvenskan,Sweden,1,summer,2023,0,post,240,17,223,665,598,19,48,7
+sweden1,Allsvenskan,Sweden,1,summer,2024,1,post,240,11,229,680,618,26,36,12
+sweden1,Allsvenskan,Sweden,1,summer,2025,2,post,240,14,226,683,625,14,44,5
+sweden2,Superettan,Sweden,2,summer,2020,-3,pre,240,17,223,647,606,9,32,12
+sweden2,Superettan,Sweden,2,summer,2021,-2,pre,240,19,221,612,570,9,33,6
+sweden2,Superettan,Sweden,2,summer,2022,-1,pre,240,14,226,697,634,13,50,7
+sweden2,Superettan,Sweden,2,summer,2023,0,post,240,17,223,673,616,13,44,10
+sweden2,Superettan,Sweden,2,summer,2024,1,post,240,20,220,633,572,12,49,14
+sweden2,Superettan,Sweden,2,summer,2025,2,post,240,18,222,686,608,18,60,12
+swiss1,Super League,Switzerland,1,winter,2020-2021,-3,pre,180,12,168,515,479,9,27,6
+swiss1,Super League,Switzerland,1,winter,2021-2022,-2,pre,180,4,176,585,531,11,43,15
+swiss1,Super League,Switzerland,1,winter,2022-2023,-1,pre,180,11,169,534,494,13,27,4
+swiss1,Super League,Switzerland,1,winter,2023-2024,0,post,198,8,190,569,518,10,41,5
+swiss1,Super League,Switzerland,1,winter,2024-2025,1,post,198,9,189,565,519,11,35,5
+swiss1,Super League,Switzerland,1,winter,2025-2026,2,post,230,11,219,750,690,10,50,8
+swiss2,Challenge League,Switzerland,2,winter,2020-2021,-3,pre,180,10,170,503,463,4,36,10
+swiss2,Challenge League,Switzerland,2,winter,2021-2022,-2,pre,180,12,168,578,546,8,24,4
+swiss2,Challenge League,Switzerland,2,winter,2022-2023,-1,pre,180,9,171,564,520,5,39,7
+swiss2,Challenge League,Switzerland,2,winter,2023-2024,0,post,180,11,169,517,474,9,34,10
+swiss2,Challenge League,Switzerland,2,winter,2024-2025,1,post,180,12,168,537,492,11,34,10
+swiss2,Challenge League,Switzerland,2,winter,2025-2026,2,post,186,12,174,566,514,10,42,5
+thai1,Thai League 1,Thailand,1,winter,2021-2022,-2,pre,240,20,220,610,542,20,48,7
+thai1,Thai League 1,Thailand,1,winter,2022-2023,-1,pre,240,15,225,647,574,17,56,12
+thai1,Thai League 1,Thailand,1,winter,2023-2024,0,post,240,18,222,732,634,23,75,15
+thai1,Thai League 1,Thailand,1,winter,2024-2025,1,post,240,16,224,732,633,28,71,11
+thai1,Thai League 1,Thailand,1,winter,2025-2026,2,post,240,17,223,642,550,28,64,16
+turkey1,Super Lig,Turkey,1,winter,2020-2021,-3,pre,420,38,382,1136,1000,50,86,21
+turkey1,Super Lig,Turkey,1,winter,2021-2022,-2,pre,380,23,357,1067,964,34,69,13
+turkey1,Super Lig,Turkey,1,winter,2022-2023,-1,pre,342,45,297,954,826,49,79,17
+turkey1,Super Lig,Turkey,1,winter,2023-2024,0,post,380,29,351,1059,925,43,91,16
+turkey1,Super Lig,Turkey,1,winter,2024-2025,1,post,342,26,316,1001,880,43,78,12
+turkey1,Super Lig,Turkey,1,winter,2025-2026,2,post,306,28,278,812,710,35,67,15
+turkey2,1. Lig,Turkey,2,winter,2020-2021,-3,pre,306,23,283,851,756,22,73,10
+turkey2,1. Lig,Turkey,2,winter,2021-2022,-2,pre,342,24,318,901,818,25,58,7
+turkey2,1. Lig,Turkey,2,winter,2022-2023,-1,pre,342,53,289,831,722,39,70,11
+turkey2,1. Lig,Turkey,2,winter,2023-2024,0,post,306,28,278,725,627,22,76,11
+turkey2,1. Lig,Turkey,2,winter,2024-2025,1,post,380,29,351,1008,898,36,74,17
+turkey2,1. Lig,Turkey,2,winter,2025-2026,2,post,385,30,355,1120,989,43,88,11
+wbelgium1,Super League Women,Belgium,women,winter,2020-2021,-3,pre,90,6,84,324,323,1,0,0
+wbelgium1,Super League Women,Belgium,women,winter,2021-2022,-2,pre,90,1,89,338,328,0,10,1
+wbelgium1,Super League Women,Belgium,women,winter,2022-2023,-1,pre,110,7,103,373,369,1,3,0
+wbelgium1,Super League Women,Belgium,women,winter,2023-2024,0,post,90,4,86,304,294,2,8,0
+wbelgium1,Super League Women,Belgium,women,winter,2024-2025,1,post,84,2,82,265,252,0,13,1
+wbelgium1,Super League Women,Belgium,women,winter,2025-2026,2,post,108,6,102,324,305,4,15,2
+wfrance1,Division 1 Women,France,women,winter,2020-2021,-3,pre,132,10,122,422,405,3,14,1
+wfrance1,Division 1 Women,France,women,winter,2021-2022,-2,pre,132,6,126,423,390,10,23,0
+wfrance1,Division 1 Women,France,women,winter,2022-2023,-1,pre,132,5,127,404,377,7,20,1
+wfrance1,Division 1 Women,France,women,winter,2023-2024,0,post,132,4,128,465,429,9,27,7
+wfrance1,Division 1 Women,France,women,winter,2024-2025,1,post,132,12,120,437,395,11,31,3
+wfrance1,Division 1 Women,France,women,winter,2025-2026,2,post,135,11,124,398,363,15,20,3
+wgermany1,Frauen-Bundesliga,Germany,women,winter,2020-2021,-3,pre,132,9,123,458,439,7,12,2
+wgermany1,Frauen-Bundesliga,Germany,women,winter,2021-2022,-2,pre,132,7,125,467,449,1,17,2
+wgermany1,Frauen-Bundesliga,Germany,women,winter,2022-2023,-1,pre,132,10,122,427,411,6,10,0
+wgermany1,Frauen-Bundesliga,Germany,women,winter,2023-2024,0,post,132,8,124,422,380,9,33,5
+wgermany1,Frauen-Bundesliga,Germany,women,winter,2024-2025,1,post,132,5,127,411,378,7,26,2
+wgermany1,Frauen-Bundesliga,Germany,women,winter,2025-2026,2,post,182,7,175,627,572,17,38,6
+wsweden,Allsvenskan Women,Sweden,women,summer,2020,-3,pre,132,5,127,383,358,7,18,1
+wsweden,Allsvenskan Women,Sweden,women,summer,2021,-2,pre,132,12,120,348,327,2,19,2
+wsweden,Allsvenskan Women,Sweden,women,summer,2022,-1,pre,182,7,175,559,523,7,29,1
+wsweden,Allsvenskan Women,Sweden,women,summer,2023,0,post,182,11,171,565,523,13,29,5
+wsweden,Allsvenskan Women,Sweden,women,summer,2024,1,post,182,16,166,558,525,6,27,2
+wsweden,Allsvenskan Women,Sweden,women,summer,2025,2,post,182,4,178,606,569,13,24,1
