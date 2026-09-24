@@ -1,11 +1,11 @@
-# Where the goals went: stoppage time after the added-time directive
+# Where the goals went: stoppage time after football's 2023 timekeeping change
 
-Replication materials for *Where the goals went: stoppage time after the added-time
-directive in 93 football leagues, from top divisions to the sixth tier*
+Replication materials for *Where the goals went: stoppage time after football's 2023 timekeeping change in 93 leagues*
 (D. Devetak, Football Charts, 2026).
 
-From the 2023 season (2023/24 in autumn–spring leagues) referees were instructed to add
-time precisely. Across 136,558 matches in 93 leagues and 42 countries, goals in normal time
+After the 2022 World Cup, IFAB guidance encouraged a more accurate calculation of added
+time (applied in English football from 2023/24). Testing a break at the first post-World Cup
+season (2023/24; 2023 for calendar-year leagues): Across 136,558 matches in 93 leagues and 42 countries, goals in normal time
 did not change (2.629 → 2.626 per match), while goals in stoppage time rose 31%
 (0.223 → 0.292 per match). The rise is about twice as large in tiers 4–6 and in women's top
 divisions as in tiers 1–3; youth competitions show no increase.
