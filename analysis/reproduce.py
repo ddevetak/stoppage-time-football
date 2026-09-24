@@ -99,7 +99,7 @@ for cal, col, lab in (("winter", "#1f4e79", "Autumn-spring leagues (0 = 2023/24)
                       ("summer", "#c0504d", "Calendar-year leagues (0 = 2023)")):
     ax.plot(range(-3, 3), [es[(cal, k)] for k in range(-3, 3)], marker="o", color=col, label=lab, lw=1.6, ms=4)
 ax.axvline(-0.5, color="grey", ls="--", lw=0.8)
-ax.set_xlabel("Season relative to the added-time regime"); ax.set_ylabel("Stoppage-time goals per match")
+ax.set_xlabel("Season relative to the IFAB decision (0 = first season after)"); ax.set_ylabel("Stoppage-time goals per match")
 ax.legend(frameon=False, fontsize=7.5, loc="upper left")
 fig.tight_layout(); fig.savefig(os.path.join(out, "fig1_event_study.pdf"))
 
