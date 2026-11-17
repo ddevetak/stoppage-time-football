@@ -1,0 +1,95 @@
+league,name,country,tier,calendar,seasons,matches
+algir1,Ligue 1,Algeria,1,winter,6,1638
+australia,A-League,Australia,1,winter,6,953
+austria1,Bundesliga,Austria,1,winter,6,792
+austria2,2. Liga,Austria,2,winter,6,1419
+azer,Premier League,Azerbaijan,1,winter,6,961
+belgium1,Jupiler Pro League,Belgium,1,winter,6,1631
+brazil1,Serie A Betano,Brazil,1,summer,6,2275
+brazil2,Serie B Superbet,Brazil,2,summer,6,2273
+bulgaria1,Parva liga,Bulgaria,1,winter,6,1322
+cha,Championship,England,2,winter,6,3311
+china,Super League,China,1,summer,6,1241
+czech1,Chance Liga,Czech Republic,1,winter,6,1506
+czech2,ChNL,Czech Republic,2,winter,6,1381
+czech3a,3. CFL - Group A,Czech Republic,3,winter,5,1040
+czech3b,3. CFL - Group B,Czech Republic,3,winter,6,1317
+denmark1,Superliga,Denmark,1,winter,6,792
+denmark2,1st Division,Denmark,2,winter,6,791
+develop21,Professional Development League (under-21),England,youth,winter,6,1626
+egypt,Premier League,Egypt,1,winter,6,1583
+eng1,League One,England,3,winter,6,3311
+eng2,League Two,England,4-6,winter,6,3312
+estonia,Meistriliiga,Estonia,1,summer,6,978
+finland1,Veikkausliiga,Finland,1,summer,6,790
+finland2,Ykkonen,Finland,2,summer,6,797
+france1,Ligue 1,France,1,winter,6,2055
+france2,Ligue 2,France,2,winter,6,2126
+france3,National,France,3,winter,6,1763
+germany-north,Regionalliga North,Germany,4-6,winter,6,1554
+germany1,Bundesliga,Germany,1,winter,6,1832
+germany2,2. Bundesliga,Germany,2,winter,6,1836
+germany3,3. Liga,Germany,3,winter,6,2271
+greece1,Super League,Greece,1,winter,6,1090
+greece2,Super League 2,Greece,2,winter,6,1677
+holland1,Eredivisie,Netherlands,1,winter,6,1835
+holland2,Eerste Divisie,Netherlands,2,winter,6,2279
+holland3,Tweede Divisie,Netherlands,3,winter,6,1577
+hungary1,NB I.,Hungary,1,winter,6,1186
+hungary2,Merkantil Bank Liga,Hungary,2,winter,6,1920
+india1,ISL,India,1,winter,6,706
+ireland1,Premier Division,Ireland,1,summer,6,988
+ireland2,Division 1,Ireland,2,summer,6,901
+italy1,Serie A,Italy,1,winter,6,2277
+italy19,Primavera 1,Italy,youth,winter,6,1862
+italy2,Serie B,Italy,2,winter,6,2278
+italy3a,Serie C - Group A,Italy,3,winter,6,2278
+italy3b,Serie C - Group B,Italy,3,winter,6,2252
+japan1,J1 League,Japan,1,summer,6,2057
+japan2,J2 League,Japan,2,summer,6,2608
+korea1,K League 1,South Korea,1,summer,6,1121
+korea2,K League 2,South Korea,2,summer,6,1269
+kuwait,Premier League,Kuwait,1,winter,6,553
+latvia,Virsliga,Latvia,1,summer,5,829
+lithuania,A Lyga,Lithuania,1,summer,6,958
+morocco,Botola Pro,Morocco,1,winter,6,1438
+national,National League,England,4-6,winter,5,2712
+north,National League North,England,4-6,winter,6,2835
+norway,Eliteserien,Norway,1,summer,6,1438
+poland1,Ekstraklasa,Poland,1,winter,6,1769
+poland2,Division 1,Poland,2,winter,6,1834
+portugal1,Liga Portugal,Portugal,1,winter,1,306
+portugal2,Liga Portugal 2,Portugal,2,winter,6,1836
+premier,Premier League,England,1,winter,6,2279
+primera1,Primera RFEF - Group 1,Spain,3,winter,5,1883
+primera2,Primera RFEF - Group 2,Spain,3,winter,5,1898
+romania1,Liga 1,Romania,1,winter,6,1439
+russia,Premier League,Russia,1,winter,6,1437
+saudi1,Saudi Professional League,Saudi Arabia,1,winter,6,1636
+saudi2,Division 1,Saudi Arabia,2,winter,6,1973
+scot-champ,Championship,Scotland,2,winter,6,1035
+scot-premier,Premiership,Scotland,1,winter,6,1188
+scot1,League One,Scotland,3,winter,6,990
+scot2,League Two,Scotland,4-6,winter,6,990
+segunda1,Segunda Division B - Group 1,Spain,4-6,winter,6,1707
+segunda2,Segunda Division B - Group 2,Spain,4-6,winter,6,1726
+segunda3,Segunda Division B - Group 3,Spain,4-6,winter,6,1728
+segunda4,Segunda Division B - Group 4,Spain,4-6,winter,6,1708
+segunda5,Segunda Division B - Group 5,Spain,4-6,winter,6,1707
+serbia1,Serbia,Serbia,1,winter,6,1577
+slovenia1,Prva liga,Slovenia,1,winter,6,1058
+south,National League South,England,4-6,winter,6,2787
+spain1,La Liga,Spain,1,winter,6,2279
+spain2,La Liga2,Spain,2,winter,6,2770
+sweden1,Allsvenskan,Sweden,1,summer,6,1440
+sweden2,Superettan,Sweden,2,summer,6,1440
+swiss1,Super League,Switzerland,1,winter,6,1133
+swiss2,Challenge League,Switzerland,2,winter,6,1084
+thai1,Thai League 1,Thailand,1,winter,5,1198
+turkey1,Super Lig,Turkey,1,winter,6,2139
+turkey2,1. Lig,Turkey,2,winter,6,2024
+usa1,Major League Soccer,United States,1,summer,6,2687
+wbelgium1,Super League Women,Belgium,women,winter,6,545
+wfrance1,Division 1 Women,France,women,winter,6,786
+wgermany1,Frauen-Bundesliga,Germany,women,winter,6,842
+wsweden,Allsvenskan Women,Sweden,women,summer,6,991

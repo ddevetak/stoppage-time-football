@@ -1,0 +1,140 @@
+{
+ "panel2": [
+  "australia",
+  "austria1",
+  "belgium1",
+  "brazil1",
+  "brazil2",
+  "bulgaria1",
+  "china",
+  "czech1",
+  "denmark1",
+  "eng1",
+  "eng2",
+  "france1",
+  "france2",
+  "germany1",
+  "greece1",
+  "holland1",
+  "india1",
+  "italy1",
+  "italy2",
+  "japan1",
+  "korea1",
+  "poland1",
+  "portugal2",
+  "premier",
+  "romania1",
+  "russia",
+  "saudi1",
+  "slovenia1",
+  "spain1",
+  "spain2",
+  "sweden1",
+  "swiss1",
+  "turkey1",
+  "turkey2",
+  "usa1"
+ ],
+ "fig1": {
+  "leagues": 93,
+  "matches_before": 72961,
+  "matches_after": 77983,
+  "second_half_goals_with_first_half_minute": 14,
+  "per_1000_matches": {
+   "first_regular": {
+    "before": 1119.9435420541138,
+    "after": 1127.6312662931227,
+    "diff": 7.687724239008947,
+    "lo": -9.056065639805931,
+    "hi": 24.849822977609758
+   },
+   "first_stoppage": {
+    "before": 53.59847170254236,
+    "after": 77.99977632634828,
+    "diff": 24.401304623805913,
+    "lo": 20.729303314996272,
+    "hi": 28.408799535476383
+   },
+   "second_regular": {
+    "before": 1314.3333949148137,
+    "after": 1310.5821368926092,
+    "diff": -3.75125802220451,
+    "lo": -21.783004101057276,
+    "hi": 13.255887950363572
+   },
+   "second_stoppage": {
+    "before": 151.2422100297979,
+    "after": 192.90891767999145,
+    "diff": 41.666707650193544,
+    "lo": 35.12566463727372,
+    "hi": 48.616545864905426
+   },
+   "all": {
+    "before": 2639.117618701268,
+    "after": 2709.122097192072,
+    "diff": 70.00447849080388,
+    "lo": 36.90921261258971,
+    "hi": 103.92443901920177
+   },
+   "stoppage": {
+    "diff": 66.06801227399946,
+    "lo": 56.72821512924238,
+    "hi": 75.51106728394514
+   },
+   "regular": {
+    "diff": 3.936466216804437,
+    "lo": -26.220878126853,
+    "hi": 34.089637538618405
+   },
+   "stoppage_share_of_rise": {
+    "share": 0.9437683659435941,
+    "lo": 0.6617891856615205,
+    "hi": 1.7066852503434957
+   }
+  }
+ },
+ "fig2": {
+  "leagues": [
+   "australia",
+   "austria1",
+   "belgium1",
+   "bulgaria1",
+   "czech1",
+   "denmark1",
+   "eng1",
+   "eng2",
+   "france1",
+   "france2",
+   "germany1",
+   "greece1",
+   "holland1",
+   "india1",
+   "italy1",
+   "italy2",
+   "poland1",
+   "portugal2",
+   "premier",
+   "romania1",
+   "russia",
+   "saudi1",
+   "slovenia1",
+   "spain1",
+   "spain2",
+   "swiss1",
+   "turkey1",
+   "turkey2"
+  ],
+  "n_leagues": 28,
+  "matches": 49617,
+  "with_board": 47977,
+  "with_length": 40598
+ },
+ "fig3": {
+  "leagues": 35,
+  "jumped_half_minute": 20,
+  "still_half_minute_up": 18,
+  "back_within_quarter": 9,
+  "below": 3
+ }
+}
